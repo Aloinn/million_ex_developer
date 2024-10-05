@@ -1,0 +1,6 @@
+# Insert your preferred key mappings here.
+map L nextTab
+map H previousTab
+map J goBack
+map K goForward
+map F LinkHints.activateModeToOpenInNewForegroundTab
